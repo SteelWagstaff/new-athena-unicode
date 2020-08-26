@@ -1,5 +1,5 @@
 # new-athena-unicode
-Latest releases of New Athena Unicode, a freeware multilingual font distributed by the Society for Classical Studies
+This repo contains ttf and woff files for the latest release of [New Athena Unicode](https://classicalstudies.org/publications-and-research/nau-download), a freeware multilingual font distributed by the Society for Classical Studies.
 
 ## ABOUT NEW ATHENA UNICODE v. 5.004 (November 2016)
 
