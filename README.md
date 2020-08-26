@@ -4,16 +4,12 @@ Latest releases of New Athena Unicode, a freeware multilingual font distributed 
 ## ABOUT NEW ATHENA UNICODE v. 5.004 (November 2016)
 
 CONTENTS:
+
 I. [Introduction](#i-introduction)
-
 II. [License](#ii-license)
-
 III. [Installation](#iii-installation)
-
 IV. [Revisions in Version 5.0](#iv-revisions-in-version-5.0)
-
 V. [Acknowledgments](#v-acknowledgments)
-
 IV. [Previous Revision History](#vi-previous-revision-history)
 
 ### I. Introduction
