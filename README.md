@@ -4,12 +4,12 @@ Latest releases of New Athena Unicode, a freeware multilingual font distributed 
 ## ABOUT NEW ATHENA UNICODE v. 5.004 (November 2016)
 
 CONTENTS:
-I. Introduction
-II. License
-III. Installation
-IV. Revisions in Version 5.0
-V. Acknowledgments
-IV. Previous Revision History
+I. [Introduction](#introduction)
+II. [License](#license)
+III. [Installation](#installation)
+IV. [Revisions in Version 5.0](#revisions-in-version-5.0)
+V. [Acknowledgments](#acknowledgments)
+IV. [Previous Revision History](#previous-revision-history)
 
 ### I. Introduction
 New Athena Unicode is a freeware multilingual font distributed by the Society for Classical Studies (formerly American Philological Association). It follows the latest version of the Unicode standard and includes characters for English and Western European languages, polytonic Greek, Coptic, Old Italic, and Demotic Egyptian (and Arabic) transliteration, as well as metrical symbols and other characters used by classical scholars.
