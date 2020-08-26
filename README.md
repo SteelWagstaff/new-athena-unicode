@@ -25,7 +25,7 @@ In version 5, the ligature definitions have been moved to a different OpenType t
 
 ### II. License
 
-Even the earliest versions of New Athena Unicode were distributed for free. For Version 3.4 (and later) of New Athena Unicode the Society has adopted an Open Font License. The license, which is quite expansive and explicit about how it may be used or adapted, is provided in full in a separate PDF in the download folder containing the fonts. For more information on this type of license consult: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+Even the earliest versions of New Athena Unicode were distributed for free. For Version 3.4 (and later) of New Athena Unicode the Society has adopted an Open Font License. The license, which is quite expansive and explicit about how it may be used or adapted, is provided in full in this repo. For more information on this type of license consult: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
 ### III. Installation
 
